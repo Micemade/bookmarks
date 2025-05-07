@@ -1,1 +1,16 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmarks xmlns="http://www.freedesktop.org/standards/xbel">
+    <folder>
+        <title>My Bookmarks</title>
+        <bookmark>
+            <title>OpenAI</title>
+            <href>https://www.openai.com</href>
+            <description>AI research and deployment company</description>
+        </bookmark>
+        <bookmark>
+            <title>DuckDuckGo</title>
+            <href>https://www.duckduckgo.com</href>
+            <description>Privacy-focused search engine</description>
+        </bookmark>
+    </folder>
+</bookmarks>
